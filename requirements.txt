@@ -1,0 +1,14 @@
+opencv-python
+pytesseract
+torch
+torchvision
+fastapi
+uvicorn
+opencv-python-headless
+Pillow
+fuzzywuzzy
+numpy
+pandas
+scikit-learn
+python-multipart
+python-Levenshtein
